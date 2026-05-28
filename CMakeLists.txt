@@ -4,4 +4,5 @@ project(awosome_algorithm)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(awosome_algorithm
-        src/floyd_warshall.cpp)
+#        src/floyd_warshall.cpp
+        src/prim.cpp)
