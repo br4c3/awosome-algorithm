@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(awosome_algorithm
 #        src/floyd_warshall.cpp
-        src/prim.cpp)
+        src/prim.cpp
+        src/matrix_chain_multiplication.cpp)
