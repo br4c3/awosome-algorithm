@@ -7,4 +7,6 @@ add_executable(awosome_algorithm
 #        src/floyd_warshall.cpp
 #        src/prim.cpp
 #        src/matrix_chain_multiplication.cpp
-        src/brute_force_match.cpp)
+#        src/brute_force_match.cpp
+#        src/KMP.cpp
+        src/boyer-moore.cpp)
